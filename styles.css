@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+#form {
+    margin-top: 20px;
+    text-align: center;
+}
+
+#todoList {
+    margin-top: 20px;
+}
+
+.task {
+    margin-bottom: 10px;
+}
+
+.deleteBtn {
+    margin-left: 10px;
+    cursor: pointer;
